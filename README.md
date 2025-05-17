@@ -4,7 +4,7 @@
 - 📫 How to reach me... on my straw!
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: water isnt wet. wet discripes objects that
-- are soaked in water.
+ are soaked in water.
 
 <!---
 MagnetizedMinded/MagnetizedMinded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
